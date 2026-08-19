@@ -1,6 +1,6 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,biography
-1,1111.jpg,,,sewing on tapes,,,,,,,,,,,,,,,
-2,1107.jpg,,,packed sewing in single cord,,,,,,,,,,,,,,,
-3,1109.jpg,,,herringbone sewing pattern,,,,,,,,,,,,,,,
-4,1110.jpg,,,regular single cord,,,,,,,,,,,,,,,
-5,1108.jpg,,,Two-on sewing,,,,,,,,,,,,,,,
+coll001,1111.jpg,,,sewing on tapes,,,,,,,,,,,,,,,
+coll002,1107.jpg,,,packed sewing in single cord,,,,,,,,,,,,,,,
+coll003,1109.jpg,,,herringbone sewing pattern,,,,,,,,,,,,,,,
+coll004,1110.jpg,,,regular single cord,,,,,,,,,,,,,,,
+coll005,1108.jpg,,,Two-on sewing,,,,,,,,,,,,,,,
